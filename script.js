@@ -187,7 +187,7 @@ setInterval(initializeVisitorCounter, 10);
   });
 
 
-  const name = "marklox228";
+  const name = "goldmangt";
   let nameText = '';
   let nameIndex = 0;
   let isNameDeleting = false;
